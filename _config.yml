@@ -1,16 +1,16 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+title:              AFIFA146
+email:              afifafifa114@gmail.com
+description:        >- # this means to ignore newlines until "baseurl:" An inarguably well-designed Jekyll theme.
 author:             Start Bootstrap
 baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+url:                "https://github.com/AFIFA146/AFIFA146.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+github_username:    AFIFA146
+facebook_username:  Afifa
+instagram_username: owp_fffa 
+linkedin_username: afifa-231563364
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
